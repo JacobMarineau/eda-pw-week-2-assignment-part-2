@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Make var number equal to 1
+// increase numbers value by 1
+// if number is equal or greater than 2
+// log yes
 
 //CODE
 /*
@@ -45,9 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// make var name equal Dane
+// if name is equal to Mary, log 'hi Mary'
+// if it is anything else log 'How do you do?'
 //
 
 //CODE
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// make var secret, make var code equal to 123
+// if var code is equal to 123 then secret will be equal 'super' and multiply code by 2
+// if var code is greater than 250 then secret will be equal to 'duper'
+// log secret
 
 //CODE
 /*
