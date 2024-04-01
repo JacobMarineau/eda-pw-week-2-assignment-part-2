@@ -130,11 +130,15 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+// colorOne should be set to blue not red
+// and colorTwo should be set to red not blue
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
 if (mix === true) {
+// Both colorOne and colorTwo should be set as purple now
+// not just colorOne
   colorOne = 'purple';
 }
 */
@@ -145,8 +149,9 @@ if (mix === true) {
 
 /*
 let temp = 40;
+// time should be a let incase we want to change it later
 const time = 4;
-
+// Instead of an 'or' '||' should use an 'and' '&&' operator  
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
