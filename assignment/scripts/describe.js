@@ -163,9 +163,12 @@ if (temp > 39 || time >= 4) {
 
 /*
 let age = 21;
+// minAge should be a let incase we want to change it later
 const minAge = 21;
 
 if(minAge <= age) {
+// This extra console log is not needed, only needs the 'enter' log,
+// Plus it's in the wrong order anyway
   console.log('no entry');
 } else {
   console.log('enter');
