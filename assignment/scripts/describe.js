@@ -144,6 +144,7 @@ if (mix === true) {
 
 /*
 let temp = 40;
+// Could be set to a let instead of const, but not a huge issue
 const time = 4;
 
 // This is an or statement '||' when it should be an and statement '&&'
